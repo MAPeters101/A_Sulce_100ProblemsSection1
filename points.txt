@@ -23,4 +23,5 @@ Exercise, Points
 22, 2
 23, 2
 24, 2
-
+25, 1
+all, 34
